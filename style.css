@@ -1,0 +1,16 @@
+body {
+    background: steelblue;
+    font-size: 22px;
+    font-family: 'Press Start 2P', cursive;
+    padding-top: 200px;
+}
+
+body, .js {
+    text-align: center;
+}
+
+.button {
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+}
